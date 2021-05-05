@@ -7,7 +7,7 @@
     "url": "git+https://github.com/aren0416/wetube-reloaded.git"
   },
   "scripts": {
-    "dev": "nodemon --exec babel-node index.js"
+    "dev": "nodemon --exec babel-node src/server.js"
   },
   "author": "PUNG",
   "license": "MIT",
