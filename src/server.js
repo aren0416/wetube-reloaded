@@ -9,6 +9,6 @@ const handleHome = () => console.log("홈홈홈홈");
 app.get("/", handleHome);
 
 const handleListening = () =>
-  console.log(`✅ Server listening on port http://localhost:${PORT} 👀`);
+  console.log(`✅ Server listening on port http://localhost:${PORT} 👀⭐️`);
 
 app.listen(PORT, handleListening);
